@@ -9,7 +9,6 @@
 </div>
 
 # 💫 About Me:
-🚀 **Software Developer** at **powersmy.biz** — building production-grade GenAI tutor agents with Google Gemini, LangChain & LangGraph, serving 500+ students.<br><br>
 🛰️ Software Engineering Journey — Started my career at Bombay Softwares, and went on to work as a Senior Associate Developer @ Successive Digital and Senior Software Developer @ Globant, contributing to high-impact projects for renowned clients including Bajaj Finserv, Somani Group, McKinsey, Nissan, and Dubai Residential.
 
 🚀 Across these roles, I’ve led end-to-end development, driven multiple POCs, worked on scalable software solutions, and mentored junior developers — combining hands-on engineering with ownership and technical leadership.<br><br>

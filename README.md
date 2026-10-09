@@ -2,25 +2,25 @@
 
 # Hi there, I'm Ashish Jha 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Senior+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Enterprise+Web+Platforms+%7C+Microfrontends;AI-Powered+Applications+%7C+RAG;Performance+%7C+Accessibility+%7C+Scalable+Frontend)](https://github.com/ashish-jha-works)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Lead+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;SitecoreAI+%7C+XM+Cloud+%7C+Sitecore+JSS;Enterprise+Web+Platforms+%7C+Microfrontends;AI-Powered+Applications+%7C+RAG;Performance+%7C+Accessibility+%7C+Scalable+Frontend)](https://github.com/ashish-jha-works)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashish-jha-works\&color=58a6ff\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ashish-jha-works&color=58a6ff&style=flat)
 
 </div>
 
 # 💫 About Me
 
-👨‍💻 **Senior Software Engineer (L2)** with **6.9+ years of experience** building full-stack enterprise web platforms, with a strong focus on **React, Next.js, TypeScript, and Node.js**.
+👨‍💻 **Lead Software Engineer** with **6.9+ years of experience** building full-stack enterprise web platforms, with a strong focus on **React, Next.js, TypeScript, and Node.js**.
 
-🚀 I've worked across **AI-powered applications, automotive, financial services, trade finance, real estate, and healthcare**, delivering products for organizations including **Roche/Genentech, McKinsey & Company, Nissan, Bajaj Finserv, Somani Group, and Dubai Residential**.
+🚀 I've worked across **AI-powered applications, automotive, financial services, trade finance, real estate, healthcare, and enterprise marketing platforms**, delivering products for organizations including **Hub International, Roche/Genentech, McKinsey & Company, Nissan, Bajaj Finserv, Somani Group, and Dubai Residential**.
 
 ⚡ My engineering focus includes **scalable frontend architecture, microfrontends, monorepos, SSR/SSG, performance optimization, accessibility, Core Web Vitals, API integrations, testing, and CI/CD**.
 
-🤖 Currently working on **Composer 2.0**, an AI-powered workspace for Genentech's marketing team, building conversational workflows, editable content experiences, context management, and validation interfaces integrated with AI-powered services.
+🏗️ Currently working as **Lead Software Engineer at Virtusa** for **Hub International**, migrating legacy Sitecore MVC projects to **SitecoreAI, XM Cloud, and Sitecore JSS**, with **Next.js** as the server-side framework for a redesigned website and modern rendering mechanisms.
 
-💡 **I'm interested in:** AI-powered products, modern frontend architecture, RAG-based applications, developer tooling, and scalable enterprise platforms.
+💡 **I'm interested in:** AI-powered products, modern frontend architecture, composable CMS platforms (SitecoreAI / XM Cloud), RAG-based applications, developer tooling, and scalable enterprise platforms.
 
-💬 **Ask me about:** React, Next.js, TypeScript, Node.js, Microfrontends, Sitecore JSS, AEM, GraphQL, TanStack Query, Redux Toolkit, Playwright, Web Performance, Core Web Vitals, and AWS.
+💬 **Ask me about:** React, Next.js, TypeScript, Node.js, Microfrontends, SitecoreAI, XM Cloud, Sitecore JSS, AEM, HubSpot CMS, GraphQL, TanStack Query, Redux Toolkit, Playwright, Web Performance, Core Web Vitals, and AWS.
 
 📫 **Reach me at:** [ashish.jha.works@gmail.com](mailto:ashish.jha.works@gmail.com)
 
@@ -28,16 +28,30 @@
 
 # 💼 Experience
 
-### 🏢 Senior Frontend Consultant — Lynx Analytics
+### 🏢 Lead Software Engineer — Virtusa
 
-**Aug 2026 – Present | Pune**
+**Sep 2026 – Present**
 
-**Client: Roche / Genentech — Composer 2.0**
+**Client: Hub International**
 
-`Next.js` `React.js` `TypeScript` `Tailwind CSS` `Copilot` `Document RAG` `Monorepo`
+`SitecoreAI` `XM Cloud` `Sitecore JSS` `Next.js` `React.js` `TypeScript`
 
-* Developing the frontend for **Composer 2.0**, an AI-powered workspace for Genentech's marketing team.
-* Building interactive campaign workflows with **conversational UI, editable content canvas, context management, and validation views** integrated with AI-powered services.
+* Leading the migration of Hub International's older **Sitecore MVC** projects to the new **SitecoreAI** capabilities using **XM Cloud and Sitecore JSS**.
+* Using **Next.js as the server-side framework** to redefine the website with an updated design and modern rendering mechanisms.
+
+---
+
+### 🏢 Senior Frontend Consultant (Contract) — Lynx Analytics
+
+**Aug 2026 – Sep 2026 | Pune**
+
+**Clients: Roche / Genentech — Composer 2.0 · Lynx Analytics Website**
+
+`Next.js` `React.js` `TypeScript` `Tailwind CSS` `Copilot` `Document RAG` `Monorepo` `HubSpot CMS`
+
+* Developed the frontend for **Composer 2.0**, an AI-powered workspace for Genentech's marketing team.
+* Built interactive campaign workflows with **conversational UI, editable content canvas, context management, and validation views** integrated with AI-powered services.
+* Revamped the **Lynx Analytics website on HubSpot CMS** from the provided Figma designs, making each individual component as **granular as possible** so it could be flexibly configured in the CMS.
 
 ---
 
@@ -106,6 +120,8 @@ AI-Powered Applications
         ↓
 React / Next.js Frontend
         ↓
+Composable CMS (SitecoreAI / XM Cloud / Sitecore JSS / HubSpot)
+        ↓
 Reusable & Scalable Components
         ↓
 APIs / GraphQL / Node.js
@@ -121,64 +137,67 @@ Performance • Accessibility • Testing
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge\&logo=sass\&logoColor=white)
-![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge\&logo=solid\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### State Management & Data Fetching
 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=reactrouter\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### AI & Developer Tools
 
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
-![Amazon Q](https://img.shields.io/badge/Amazon_Q-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 
 ### CMS & Enterprise Platforms
 
-![AEM](https://img.shields.io/badge/Adobe_AEM-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
-![Sitecore](https://img.shields.io/badge/Sitecore-EB1F26?style=for-the-badge)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge\&logo=hubspot\&logoColor=white)
+![SitecoreAI](https://img.shields.io/badge/SitecoreAI-EB1F26?style=for-the-badge)
+![XM Cloud](https://img.shields.io/badge/XM_Cloud-EB1F26?style=for-the-badge)
+![Sitecore JSS](https://img.shields.io/badge/Sitecore_JSS-EB1F26?style=for-the-badge)
+![Sitecore](https://img.shields.io/badge/Sitecore_MVC-EB1F26?style=for-the-badge)
+![AEM](https://img.shields.io/badge/Adobe_AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Testing, Performance & Quality
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge\&logo=lighthouse\&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge\&logo=webpack\&logoColor=black)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge\&logo=storybook\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### Architecture
 
@@ -216,8 +235,8 @@ B.Tech — Computer Science & Engineering
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/its-ashish-jha-merndev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashish.jha.works@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-ashish-jha-merndev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.jha.works@gmail.com)
 
 ---
 
@@ -225,11 +244,11 @@ B.Tech — Computer Science & Engineering
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ashish-jha-works\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ashish-jha-works&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashish-jha-works\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashish-jha-works&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashish-jha-works\&theme=tokyonight\&hide_border=true\&layout=compact\&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashish-jha-works&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -237,4 +256,4 @@ B.Tech — Computer Science & Engineering
 
 ## 📈 Activity Graph
 
-[![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish-jha-works\&theme=tokyo-night\&hide_border=true)](https://github.com/ashish-jha-works)
+[![Ashish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish-jha-works&theme=tokyo-night&hide_border=true)](https://github.com/ashish-jha-works)
